@@ -6,6 +6,13 @@
   height: 40vmin;
   pointer-events: none;
 }
+.cartCard {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(122, 130, 199);
+  padding: 10px;
+  
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
